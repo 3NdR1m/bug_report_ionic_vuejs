@@ -1,0 +1,7 @@
+{
+  "name": "bug_report_ionic_vuejs",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
